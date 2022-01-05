@@ -1,11 +1,10 @@
-# CAB240 Study Guide | 2021 Year 1 Semester 2
+# Information Security
 <br>
 
 <h1>Table of Contents</h1>
 <ul>
-	<li><a href="#CAB240">CAB240: Information Security</a></li>
+	<li><a href="#Information Security">Information Security</a></li>
 	<ul>
-		<li>Intro to the topic | Tips for the unit</li>
 		<li><a href="#week1">Week 1</a>: Introduction</li>
 		<li><a href="#week2">Week 2</a>: Threats, Vulnerabilities, Security Incidents and Attacks</li>
 		<li><a href="#week3">Week 3</a>: No-Scheduled Classes</li>
@@ -37,11 +36,8 @@ There is a lot of information for each week, the best way to use this study guid
 
 <hr /> <br />
 
-<h1 id="CAB240">CAB240: Information Security</h1>
-<p>Insert text</p>
+<h1 id="Information Security">Information Security</h1>
 <br />
-<h2>Intro to the topic | Tips for the unit</h2>
-<p>Insert text</p>
 
 <br />
 <h2 id="week1">Week 1: Introduction</h2>
